@@ -1,0 +1,15 @@
+{
+  "name": "natas16",
+  "version": "0.0.1",
+  "description": "A solution to natas16",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Buis",
+  "license": "MIT"
+}
